@@ -26,3 +26,4 @@ python-docx
 
 # For loading .txt files from directories
 tqdm
+langchain-community
