@@ -1,0 +1,7 @@
+Case ID: FRAUD-2022-019
+Date Detected: 2022-06-18
+Nature: Undervaluation of declared goods (textiles)
+Declared Value: USD 1,000
+Actual Market Value: USD 10,000
+Detection Method: Random customs audit and market cross-reference
+Country: Vietnam

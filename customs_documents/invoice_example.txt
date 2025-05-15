@@ -1,0 +1,8 @@
+Invoice Number: INV-456789
+Exporter: GlobalTrade Inc.
+Importer: BlueOcean Ltd.
+Product Description: Electronic Components
+Total Value: USD 25,000
+HS Code: 85423900
+Payment Terms: 30 days net
+Date: 2024-10-12

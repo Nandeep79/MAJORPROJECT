@@ -1,0 +1,6 @@
+Log Entry: 2023-03-14
+Importer: SunTech Ltd.
+Country of Import: Germany
+Violation: Missing CE certification for electronics
+Action Taken: Shipment held at customs until documentation provided.
+Resolution Time: 7 days

@@ -1,0 +1,8 @@
+B/L Number: BOL1234567
+Carrier: TransOcean Shipping Co.
+Port of Loading: Shanghai, China
+Port of Discharge: Los Angeles, USA
+Consignee: BlueOcean Ltd.
+Notify Party: Global Logistics Brokers
+Container No: TGHU1234567
+Goods: Electronic Components (20 cartons)
