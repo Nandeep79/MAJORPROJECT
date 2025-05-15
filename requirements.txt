@@ -1,0 +1,28 @@
+# Streamlit UI
+streamlit
+
+# Environment variable handling
+python-dotenv
+
+# HuggingFace Embeddings
+sentence-transformers
+
+# Vector DB
+faiss-cpu
+
+# LangChain core
+langchain
+
+# Google Generative AI (Gemini)
+langchain-google-genai
+google-generativeai
+
+# For reading and splitting files
+chardet
+
+# Optional: For parsing PDFs, DOCX, etc.
+PyMuPDF
+python-docx
+
+# For loading .txt files from directories
+tqdm
